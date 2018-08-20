@@ -1,0 +1,38 @@
+Conversion Warnings Log
+
+
+MSG_ID: 695 	MSG_TYPE: S 	MSG_NAME: HEARTBEAT_GPS
+	SIG_NAME: GPS_CONNECTED, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 100 	MSG_TYPE: S 	MSG_NAME: APP_START_STOP
+	SIG_NAME: BRIDGE_START, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 500 	MSG_TYPE: S 	MSG_NAME: GPS_CHECKPOINT_DESTINATION
+	SIG_NAME: GPS_latitude, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: GPS_longitude, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 300 	MSG_TYPE: S 	MSG_NAME: MOTOR_SIGNAL
+	SIG_NAME: MOTOR_STEER_FULL_LEFT, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: MOTOR_STEER_SLIGHT_LEFT, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: MOTOR_STEER_VERY_SLIGHT_LEFT, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: MOTOR_STEER_FULL_RIGHT, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: MOTOR_STEER_SLIGHT_RIGHT, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: MOTOR_STEER_VERY_SLIGHT_RIGHT, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: MOTOR_STEER_STRAIGHT, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: MOTOR_DRIVE_FORWARD, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: MOTOR_DRIVE_REVERSE, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 555 	MSG_TYPE: S 	MSG_NAME: GPS_CURRENT_LOCATION
+	SIG_NAME: GPS_CURRENT_LOCATION_latitude, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: GPS_CURRENT_LOCATION_longitude, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 400 	MSG_TYPE: S 	MSG_NAME: GPS_CAR_RUNNING
+	SIG_NAME: GPS_CAR_DISTANCE_to_destination, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: GPS_CAR_ANGLE_TURN_dirmsg, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 540 	MSG_TYPE: S 	MSG_NAME: GPS_BEARING_HEADING
+	SIG_NAME: GPS_BEARING_angle, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+	SIG_NAME: GPS_HEADING_angle, STATUS: Invalid Max or Min value., ACTION: Value Set to default
+
+MSG_ID: 700 	MSG_TYPE: S 	MSG_NAME: HEARTBEAT_BRIDGE
+	SIG_NAME: BRIDGE_CONNECTED, STATUS: Invalid Max or Min value., ACTION: Value Set to default
